@@ -1,0 +1,14 @@
+Masukkan Username: Naurah
+Masukkan Password: 2400018111
+
+Informasi Pribadi
+Nama: Naurah 
+NIM:2400018111
+Prodi: Informatika
+Fakultas: FTI
+
+Jumlah KRS yang dipilih: 2
+1. Matdis [3 sks]
+2. PWeb [3 sks]
+
+
